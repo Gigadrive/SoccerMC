@@ -1,0 +1,11 @@
+name: SoccerMC
+author: Zeryther
+website: https://thechest.eu
+version: 1.0
+main: eu.thechest.soccermc.SoccerMC
+depend: [ChestAPI, HolographicDisplays]
+
+commands:
+  toggleparticles:
+    description: toggle help particles
+    aliases: [particles]
